@@ -1,0 +1,2 @@
+/** * Provides classes to support a goal-driven organization of agents. * * Organizations are first-class objects when working with organization-based agents. * * The OMACS organization is an organization model. * * These organizations are runnable entities, whose desired behavior is defined by an * OrganizationSpecification.   With each organization turn, each participant is given a chance * to execute first their control component and second, their execution component for their highest priority task. * */
+package edu.ksu.cis.macr.aasis.org;

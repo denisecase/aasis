@@ -1,0 +1,2 @@
+/** * Provides classes supporting each persona (sub-agent) in agent organizations. * * Each internal agent-organization has: * * One persona heading the internal self-organization. * * One persona for each organization in which it participates. * */
+package edu.ksu.cis.macr.aasis.agent.persona;

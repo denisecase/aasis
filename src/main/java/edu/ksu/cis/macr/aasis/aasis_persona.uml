@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="519.0" y="0.0">edu.ksu.cis.macr.obaa_pp.org.IExecutableOrganization</node>
+    <node x="705.0" y="1685.0">edu.ksu.cis.macr.obaa_pp.cc_p.EmptyControlComponent</node>
+    <node x="1732.75" y="0.0">edu.ksu.cis.macr.obaa_pp.agent.IAbstractAgent</node>
+    <node x="0.0" y="2204.0">edu.ksu.cis.macr.aasis.agent.persona.capabilities.ForecastWeatherCapability</node>
+    <node x="362.5" y="1858.0">edu.ksu.cis.macr.obaa_pp.ec_cap.IAbstractOrganizationCapability</node>
+    <node x="186.0" y="796.0">edu.ksu.cis.macr.aasis.agent.persona.factory.BaseOrganization</node>
+    <node x="201.0" y="2367.0">edu.ksu.cis.macr.aasis.organization.OrganizationFocus</node>
+    <node x="561.0" y="636.0">edu.ksu.cis.macr.aasis.agent.persona.BaseInnerOrganization</node>
+    <node x="266.125" y="1229.0">edu.ksu.cis.macr.obaa_pp.cc_a.IAbstractControlComponent</node>
+    <node x="968.125" y="1417.0">edu.ksu.cis.macr.aasis.agent.persona.IAbstractBaseControlComponent</node>
+    <node x="0.0" y="896.0">edu.ksu.cis.macr.aasis.self.IAgentInternalOrganization</node>
+    <node x="505.125" y="1307.0">edu.ksu.cis.macr.obaa_pp.cc_a.AbstractControlComponent</node>
+    <node x="1377.625" y="1585.0">edu.ksu.cis.macr.aasis.organization.BaseOrganizationSpecification</node>
+    <node x="1422.0" y="1936.0">edu.ksu.cis.macr.aasis.events.OrganizationEvents</node>
+    <node x="402.0" y="2224.0">edu.ksu.cis.macr.aasis.agent.persona.capabilities.AutonomousOperationCapability</node>
+    <node x="309.5" y="78.0">edu.ksu.cis.macr.obaa_pp.org.ExecutableOrganization</node>
+    <node x="1186.0" y="1936.0">edu.ksu.cis.macr.aasis.common.Connections</node>
+    <node x="466.0" y="1936.0">edu.ksu.cis.macr.aasis.agent.persona.capabilities.BaseAbstractOrganizationCapability</node>
+    <node x="915.5" y="1858.0">edu.ksu.cis.macr.aasis.common.IConnectionGuidelines</node>
+    <node x="115.0" y="1615.0">edu.ksu.cis.macr.obaa_pp.cc_m.AbstractControlComponentMaster</node>
+    <node x="127.0" y="1936.0">edu.ksu.cis.macr.obaa_pp.ec_cap.AbstractOrganizationCapability</node>
+    <node x="920.875" y="1645.0">edu.ksu.cis.macr.aasis.agent.persona.AbstractBaseControlComponent</node>
+    <node x="1583.0" y="1858.0">edu.ksu.cis.macr.aasis.events.IOrganizationEvents</node>
+    <node x="191.0" y="2194.0">edu.ksu.cis.macr.aasis.agent.persona.capabilities.DateTimeCapability</node>
+    <node x="1581.25" y="78.0">edu.ksu.cis.macr.obaa_pp.agent.AbstractAgent</node>
+    <node x="2097.0" y="1858.0">edu.ksu.cis.macr.obaa_pp.cc_message.IParticipateMessage</node>
+    <node x="2097.0" y="1936.0">edu.ksu.cis.macr.obaa_pp.cc_message.ParticipateMessage</node>
+    <node x="18.0" y="2367.0">edu.ksu.cis.macr.aasis.messages.connect.IConnectMessage</node>
+    <node x="386.0" y="1605.0">edu.ksu.cis.macr.obaa_pp.cc_p.AbstractControlComponentParticipant</node>
+    <node x="830.0" y="1936.0">edu.ksu.cis.macr.aasis.common.ConnectionGuidelines</node>
+    <node x="1233.0" y="1858.0">edu.ksu.cis.macr.aasis.common.IConnections</node>
+    <node x="1403.625" y="1229.0">edu.ksu.cis.macr.obaa_pp.spec.IOrganizationSpecification</node>
+    <node x="1113.25" y="318.0">edu.ksu.cis.macr.aasis.agent.persona.IExternalOrganization</node>
+    <node x="7.25" y="1417.0">edu.ksu.cis.macr.obaa_pp.cc_m.IControlComponentMaster</node>
+    <node x="1516.125" y="1407.0">edu.ksu.cis.macr.aasis.organization.IExternalOrganizationSpecification</node>
+    <node x="2012.25" y="238.0">edu.ksu.cis.macr.obaa_pp.agent.IAgent</node>
+    <node x="1928.5" y="1858.0">edu.ksu.cis.macr.aasis.messages.custom.ICustomMessage</node>
+    <node x="0.0" y="2445.0">edu.ksu.cis.macr.aasis.messages.connect.ConnectMessage</node>
+    <node x="1205.125" y="1307.0">edu.ksu.cis.macr.obaa_pp.spec.OrganizationSpecification</node>
+    <node x="1484.25" y="238.0">edu.ksu.cis.macr.aasis.agent.persona.IPersona</node>
+    <node x="945.25" y="318.0">edu.ksu.cis.macr.aasis.agent.persona.IBaseInnerOrganization</node>
+    <node x="52.5" y="318.0">edu.ksu.cis.macr.aasis.agent.persona.IBaseOrganization</node>
+    <node x="0.0" y="1695.0">edu.ksu.cis.macr.aasis.self.persona.ISelfPersona</node>
+    <node x="1297.25" y="476.0">edu.ksu.cis.macr.aasis.agent.persona.AbstractPersona</node>
+    <node x="1921.0" y="1936.0">edu.ksu.cis.macr.aasis.messages.custom.CustomMessage</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="edu.ksu.cis.macr.aasis.organization.IExternalOrganizationSpecification" target="edu.ksu.cis.macr.obaa_pp.spec.IOrganizationSpecification">
+      <point x="0.0" y="-14.0" />
+      <point x="1615.625" y="1282.0" />
+      <point x="1522.875" y="1282.0" />
+      <point x="39.75" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.obaa_pp.org.ExecutableOrganization" target="edu.ksu.cis.macr.obaa_pp.org.IExecutableOrganization">
+      <point x="0.0" y="-254.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.obaa_pp.cc_m.IControlComponentMaster" target="edu.ksu.cis.macr.obaa_pp.cc_a.IAbstractControlComponent">
+      <point x="0.0" y="-14.0" />
+      <point x="87.75" y="1277.0" />
+      <point x="287.25" y="1277.0" />
+      <point x="-63.375" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.agent.persona.factory.BaseOrganization" target="edu.ksu.cis.macr.aasis.agent.persona.IBaseOrganization">
+      <point x="-88.75" y="-114.0" />
+      <point x="274.75" y="611.0" />
+      <point x="144.0" y="611.0" />
+      <point x="30.5" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.agent.persona.capabilities.BaseAbstractOrganizationCapability" target="edu.ksu.cis.macr.obaa_pp.ec_cap.IAbstractOrganizationCapability">
+      <point x="0.0" y="-104.0" />
+      <point x="625.5" y="1911.0" />
+      <point x="502.75" y="1911.0" />
+      <point x="46.75" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.agent.persona.IExternalOrganization" target="edu.ksu.cis.macr.obaa_pp.org.IExecutableOrganization">
+      <point x="0.0" y="-14.0" />
+      <point x="1182.75" y="53.0" />
+      <point x="645.6666666666666" y="53.0" />
+      <point x="50.66666666666663" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.agent.persona.BaseInnerOrganization" target="edu.ksu.cis.macr.aasis.agent.persona.IBaseInnerOrganization">
+      <point x="152.75" y="-274.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.obaa_pp.agent.IAgent" target="edu.ksu.cis.macr.obaa_pp.agent.IAbstractAgent">
+      <point x="0.0" y="-14.0" />
+      <point x="2045.75" y="53.0" />
+      <point x="1822.75" y="53.0" />
+      <point x="36.0" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.obaa_pp.cc_m.AbstractControlComponentMaster" target="edu.ksu.cis.macr.obaa_pp.cc_a.AbstractControlComponent">
+      <point x="83.66666666666669" y="-94.0" />
+      <point x="324.1666666666667" y="1580.0" />
+      <point x="560.5" y="1580.0" />
+      <point x="-166.125" y="124.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.agent.persona.capabilities.DateTimeCapability" target="edu.ksu.cis.macr.obaa_pp.ec_cap.AbstractOrganizationCapability">
+      <point x="0.0" y="-64.0" />
+      <point x="0.0" y="104.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.messages.custom.CustomMessage" target="edu.ksu.cis.macr.aasis.messages.custom.ICustomMessage">
+      <point x="0.0" y="-34.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.obaa_pp.cc_m.AbstractControlComponentMaster" target="edu.ksu.cis.macr.obaa_pp.cc_a.IAbstractControlComponent">
+      <point x="0.0" y="-94.0" />
+      <point x="240.5" y="1287.0" />
+      <point x="329.5" y="1287.0" />
+      <point x="-21.125" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.organization.BaseOrganizationSpecification" target="edu.ksu.cis.macr.obaa_pp.spec.OrganizationSpecification">
+      <point x="-52.75" y="-74.0" />
+      <point x="1430.375" y="1560.0" />
+      <point x="1350.625" y="1560.0" />
+      <point x="0.0" y="114.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.obaa_pp.cc_a.AbstractControlComponent" target="edu.ksu.cis.macr.obaa_pp.cc_a.IAbstractControlComponent">
+      <point x="0.0" y="-124.0" />
+      <point x="726.625" y="1277.0" />
+      <point x="414.0" y="1277.0" />
+      <point x="63.375" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.agent.persona.AbstractPersona" target="edu.ksu.cis.macr.aasis.agent.persona.IPersona">
+      <point x="0.0" y="-194.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.agent.persona.IPersona" target="edu.ksu.cis.macr.obaa_pp.agent.IAbstractAgent">
+      <point x="0.0" y="-14.0" />
+      <point x="1522.75" y="53.0" />
+      <point x="1750.75" y="53.0" />
+      <point x="-36.0" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.agent.persona.AbstractBaseControlComponent" target="edu.ksu.cis.macr.obaa_pp.cc_a.AbstractControlComponent">
+      <point x="-47.75" y="-64.0" />
+      <point x="968.625" y="1580.0" />
+      <point x="892.75" y="1580.0" />
+      <point x="166.125" y="124.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.events.OrganizationEvents" target="edu.ksu.cis.macr.aasis.events.IOrganizationEvents">
+      <point x="0.0" y="-34.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.obaa_pp.ec_cap.AbstractOrganizationCapability" target="edu.ksu.cis.macr.obaa_pp.ec_cap.IAbstractOrganizationCapability">
+      <point x="0.0" y="-104.0" />
+      <point x="286.5" y="1911.0" />
+      <point x="409.25" y="1911.0" />
+      <point x="-46.75" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.common.Connections" target="edu.ksu.cis.macr.aasis.common.IConnections">
+      <point x="0.0" y="-64.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.obaa_pp.agent.AbstractAgent" target="edu.ksu.cis.macr.obaa_pp.agent.IAbstractAgent">
+      <point x="0.0" y="-174.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.organization.BaseOrganizationSpecification" target="edu.ksu.cis.macr.aasis.organization.IExternalOrganizationSpecification">
+      <point x="52.75" y="-74.0" />
+      <point x="1535.875" y="1560.0" />
+      <point x="1615.625" y="1560.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.obaa_pp.cc_p.AbstractControlComponentParticipant" target="edu.ksu.cis.macr.obaa_pp.cc_a.AbstractControlComponent">
+      <point x="74.75" y="-104.0" />
+      <point x="610.25" y="1580.0" />
+      <point x="671.25" y="1580.0" />
+      <point x="-55.375" y="124.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.agent.persona.factory.BaseOrganization" target="edu.ksu.cis.macr.obaa_pp.org.ExecutableOrganization">
+      <point x="88.75" y="-114.0" />
+      <point x="-142.75" y="254.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.agent.persona.capabilities.AutonomousOperationCapability" target="edu.ksu.cis.macr.obaa_pp.ec_cap.AbstractOrganizationCapability">
+      <point x="0.0" y="-34.0" />
+      <point x="496.5" y="2169.0" />
+      <point x="392.8333333333333" y="2169.0" />
+      <point x="106.33333333333331" y="104.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.common.ConnectionGuidelines" target="edu.ksu.cis.macr.aasis.common.IConnectionGuidelines">
+      <point x="0.0" y="-124.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.obaa_pp.cc_p.EmptyControlComponent" target="edu.ksu.cis.macr.obaa_pp.cc_a.AbstractControlComponent">
+      <point x="0.0" y="-24.0" />
+      <point x="55.375" y="124.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.agent.persona.capabilities.ForecastWeatherCapability" target="edu.ksu.cis.macr.obaa_pp.ec_cap.AbstractOrganizationCapability">
+      <point x="0.0" y="-54.0" />
+      <point x="85.5" y="2169.0" />
+      <point x="180.16666666666669" y="2169.0" />
+      <point x="-106.33333333333331" y="104.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.obaa_pp.cc_message.ParticipateMessage" target="edu.ksu.cis.macr.obaa_pp.cc_message.IParticipateMessage">
+      <point x="0.0" y="-34.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.obaa_pp.spec.OrganizationSpecification" target="edu.ksu.cis.macr.obaa_pp.spec.IOrganizationSpecification">
+      <point x="0.0" y="-114.0" />
+      <point x="1350.625" y="1282.0" />
+      <point x="1443.375" y="1282.0" />
+      <point x="-39.75" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.self.persona.ISelfPersona" target="edu.ksu.cis.macr.obaa_pp.cc_m.IControlComponentMaster">
+      <point x="0.0" y="-14.0" />
+      <point x="-40.25" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.obaa_pp.cc_p.AbstractControlComponentParticipant" target="edu.ksu.cis.macr.obaa_pp.cc_a.IAbstractControlComponent">
+      <point x="-74.75" y="-104.0" />
+      <point x="460.75" y="1287.0" />
+      <point x="371.75" y="1287.0" />
+      <point x="21.125" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.messages.connect.ConnectMessage" target="edu.ksu.cis.macr.aasis.messages.connect.IConnectMessage">
+      <point x="0.0" y="-24.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.obaa_pp.cc_m.AbstractControlComponentMaster" target="edu.ksu.cis.macr.obaa_pp.cc_m.IControlComponentMaster">
+      <point x="-83.66666666666669" y="-94.0" />
+      <point x="156.83333333333331" y="1580.0" />
+      <point x="128.0" y="1580.0" />
+      <point x="40.25" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.agent.persona.BaseInnerOrganization" target="edu.ksu.cis.macr.obaa_pp.org.ExecutableOrganization">
+      <point x="-152.75" y="-274.0" />
+      <point x="713.75" y="611.0" />
+      <point x="737.75" y="611.0" />
+      <point x="142.75" y="254.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.agent.persona.IBaseOrganization" target="edu.ksu.cis.macr.obaa_pp.org.IExecutableOrganization">
+      <point x="0.0" y="-14.0" />
+      <point x="113.5" y="53.0" />
+      <point x="544.3333333333333" y="53.0" />
+      <point x="-50.666666666666686" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.self.IAgentInternalOrganization" target="edu.ksu.cis.macr.aasis.agent.persona.IBaseOrganization">
+      <point x="0.0" y="-14.0" />
+      <point x="-30.5" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.agent.persona.AbstractBaseControlComponent" target="edu.ksu.cis.macr.aasis.agent.persona.IAbstractBaseControlComponent">
+      <point x="47.75" y="-64.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.5207293666026872" x="703.1551787688904" y="1770.103943973461" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

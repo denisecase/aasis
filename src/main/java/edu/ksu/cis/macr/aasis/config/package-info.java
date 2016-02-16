@@ -1,0 +1,2 @@
+/** * Provides basic configuration information including how to locate the files used for behavior specification, * and enumerations of the holonic levels in the grid control holarchy and the power sales auctioning hierarchy. */
+package edu.ksu.cis.macr.aasis.config;

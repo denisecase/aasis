@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoalDiagram version="1.1" name="Agent Goal Model" embedded="false">
+	<Goal id="9d3b987e-28ab-431a-879c-36d2d7856a54" name="Succeed" number="1" preference="1.0" x="324" y="14" width="-1" height="-1" definition="" description="" color="No">
+			<parameter name="agentGuidelines" collection="" type="AgentGuidelines"/>
+		<and>
+			<child>55a1698c-6b60-41fe-8cf2-ca120fa34fd4</child>
+		</and>
+		<and>
+			<child>4c14d43c-3dec-4106-93b5-d560f7f3851e</child>
+		</and>
+	</Goal>
+	<Goal id="55a1698c-6b60-41fe-8cf2-ca120fa34fd4" name="Self Control" number="2" preference="1.0" x="185" y="221" width="-1" height="-1" definition="" description="" color="No">
+			<parameter name="agentGuidelines" collection="" type="AgentGuidelines"/>
+	</Goal>
+	<Goal id="4c14d43c-3dec-4106-93b5-d560f7f3851e" name="Manage" number="4" preference="1.0" x="445" y="222" width="-1" height="-1" definition="" description="" color="No">
+			<parameter name="agentGuidelines" collection="" type="AgentGuidelines"/>
+	</Goal>
+</GoalDiagram>

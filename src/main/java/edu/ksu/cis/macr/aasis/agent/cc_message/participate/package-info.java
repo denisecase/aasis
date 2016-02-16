@@ -1,0 +1,2 @@
+/** * Provides message classes needed to implement common organizational participation capabilities, just as registering and accepting assignments in a distributed MAS. */
+package edu.ksu.cis.macr.aasis.agent.cc_message.participate;

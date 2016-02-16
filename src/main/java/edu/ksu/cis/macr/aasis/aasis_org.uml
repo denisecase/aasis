@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="1977.3125" y="78.0">edu.ksu.cis.macr.obaa_pp.cc_message.ParticipateMessage</node>
+    <node x="1467.5625" y="408.0">edu.ksu.cis.macr.obaa_pp.org.IExecutableOrganization</node>
+    <node x="970.0" y="278.0">edu.ksu.cis.macr.obaa_pp.org.OrganizationFactory</node>
+    <node x="206.06845238095252" y="926.0">edu.ksu.cis.macr.aasis.agent.ec.static_org.StaticAffiliateOrganization</node>
+    <node x="399.0" y="178.0">edu.ksu.cis.macr.obaa_pp.ec.staticorg.StaticOrganization</node>
+    <node x="183.0" y="408.0">edu.ksu.cis.macr.aasis.spec.IAffiliateOrganizationSpecification</node>
+    <node x="832.8794642857143" y="1274.0">edu.ksu.cis.macr.aasis.org.InnerOrganization</node>
+    <node x="" y="">edu.ksu.cis.macr.aasis.events.OrganizationEvents</node>
+    <node x="1518.3125" y="1534.0">edu.ksu.cis.macr.aasis.agent.org.IAffiliateExecutableOrganization</node>
+    <node x="648.4166666666667" y="50.0">edu.ksu.cis.macr.obaa_pp.ec.staticorg.IStaticOrganization</node>
+    <node x="879.2916666666667" y="716.0">edu.ksu.cis.macr.obaa_pp.org.ExecutableOrganization</node>
+    <node x="0.0" y="408.0">edu.ksu.cis.macr.aasis.agent.ec.static_org.IStaticAffiliateOrganization</node>
+    <node x="1287.15625" y="1872.0">edu.ksu.cis.macr.aasis.agent.org.AffiliateExecutableOrganization</node>
+    <node x="" y="">edu.ksu.cis.macr.aasis.spec.AffiliateOrganizationSpecification</node>
+    <node x="1519.0625" y="956.0">edu.ksu.cis.macr.aasis.org.IInnerOrganization</node>
+    <node x="1776.3125" y="0.0">edu.ksu.cis.macr.aasis.events.IOrganizationEvents</node>
+    <node x="1161.0684523809525" y="0.0">edu.ksu.cis.macr.obaa_pp.objects.ObjectFactory</node>
+    <node x="1977.3125" y="0.0">edu.ksu.cis.macr.obaa_pp.cc_message.IParticipateMessage</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="edu.ksu.cis.macr.aasis.agent.org.AffiliateExecutableOrganization" target="edu.ksu.cis.macr.aasis.org.InnerOrganization">
+      <point x="-46.25" y="-34.0" />
+      <point x="1333.40625" y="1847.0" />
+      <point x="1138.3794642857142" y="1847.0" />
+      <point x="0.0" y="274.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.obaa_pp.org.OrganizationFactory" target="edu.ksu.cis.macr.obaa_pp.org.ExecutableOrganization">
+      <point x="110.25" y="144.0" />
+      <point x="1300.75" y="696.0" />
+      <point x="1236.1666666666667" y="696.0" />
+      <point x="71.375" y="-254.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.obaa_pp.org.ExecutableOrganization" target="edu.ksu.cis.macr.obaa_pp.org.IExecutableOrganization">
+      <point x="214.125" y="-254.0" />
+      <point x="1378.9166666666667" y="696.0" />
+      <point x="1505.5625" y="696.0" />
+      <point x="-38.0" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.agent.org.IAffiliateExecutableOrganization" target="edu.ksu.cis.macr.aasis.org.IInnerOrganization">
+      <point x="0.0" y="-14.0" />
+      <point x="31.25" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.obaa_pp.ec.staticorg.StaticOrganization" target="edu.ksu.cis.macr.obaa_pp.ec.staticorg.IStaticOrganization">
+      <point x="0.0" y="-244.0" />
+      <point x="674.5" y="158.0" />
+      <point x="711.4166666666667" y="158.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.org.InnerOrganization" target="edu.ksu.cis.macr.aasis.org.IInnerOrganization">
+      <point x="203.66666666666663" y="-274.0" />
+      <point x="1342.046130952381" y="1249.0" />
+      <point x="1550.3125" y="1249.0" />
+      <point x="-31.25" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.agent.ec.static_org.StaticAffiliateOrganization" target="edu.ksu.cis.macr.aasis.spec.IAffiliateOrganizationSpecification">
+      <point x="0.0" y="-44.0" />
+      <point x="285.5684523809525" y="686.0" />
+      <point x="232.0" y="686.0" />
+      <point x="-49.0" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.agent.ec.static_org.StaticAffiliateOrganization" target="edu.ksu.cis.macr.aasis.agent.ec.static_org.IStaticAffiliateOrganization">
+      <point x="-53.0" y="-44.0" />
+      <point x="232.56845238095252" y="696.0" />
+      <point x="81.5" y="696.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.org.InnerOrganization" target="edu.ksu.cis.macr.aasis.spec.AffiliateOrganizationSpecification">
+      <point x="-203.66666666666663" y="-274.0" />
+      <point x="934.7127976190477" y="1249.0" />
+      <point x="490.5684523809525" y="1249.0" />
+      <point x="0.0" y="74.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.obaa_pp.cc_message.ParticipateMessage" target="edu.ksu.cis.macr.obaa_pp.cc_message.IParticipateMessage">
+      <point x="0.0" y="-34.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.spec.AffiliateOrganizationSpecification" target="edu.ksu.cis.macr.aasis.spec.IAffiliateOrganizationSpecification">
+      <point x="0.0" y="-74.0" />
+      <point x="490.5684523809525" y="686.0" />
+      <point x="330.0" y="686.0" />
+      <point x="49.0" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.agent.ec.static_org.StaticAffiliateOrganization" target="edu.ksu.cis.macr.obaa_pp.ec.staticorg.StaticOrganization">
+      <point x="53.0" y="-44.0" />
+      <point x="338.5684523809525" y="696.0" />
+      <point x="536.75" y="696.0" />
+      <point x="-137.75" y="244.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.obaa_pp.org.IExecutableOrganization" target="edu.ksu.cis.macr.obaa_pp.ec.staticorg.IStaticOrganization">
+      <point x="0.0" y="-14.0" />
+      <point x="1543.5625" y="148.0" />
+      <point x="753.4166666666667" y="148.0" />
+      <point x="42.0" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.org.IInnerOrganization" target="edu.ksu.cis.macr.obaa_pp.org.IExecutableOrganization">
+      <point x="0.0" y="-14.0" />
+      <point x="38.0" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.agent.ec.static_org.IStaticAffiliateOrganization" target="edu.ksu.cis.macr.obaa_pp.ec.staticorg.IStaticOrganization">
+      <point x="0.0" y="-14.0" />
+      <point x="81.5" y="158.0" />
+      <point x="669.4166666666667" y="158.0" />
+      <point x="-42.0" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.agent.org.AffiliateExecutableOrganization" target="edu.ksu.cis.macr.aasis.agent.org.IAffiliateExecutableOrganization">
+      <point x="46.25" y="-34.0" />
+      <point x="1425.90625" y="1847.0" />
+      <point x="1612.8125" y="1847.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.org.InnerOrganization" target="edu.ksu.cis.macr.obaa_pp.org.ExecutableOrganization">
+      <point x="0.0" y="-274.0" />
+      <point x="1138.3794642857142" y="1249.0" />
+      <point x="1164.7916666666667" y="1249.0" />
+      <point x="0.0" y="254.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.obaa_pp.org.ExecutableOrganization" target="edu.ksu.cis.macr.obaa_pp.org.OrganizationFactory">
+      <point x="-71.375" y="-254.0" />
+      <point x="1093.4166666666667" y="696.0" />
+      <point x="1080.25" y="696.0" />
+      <point x="-110.25" y="144.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.obaa_pp.org.ExecutableOrganization" target="edu.ksu.cis.macr.obaa_pp.ec.staticorg.StaticOrganization">
+      <point x="-214.125" y="-254.0" />
+      <point x="950.6666666666667" y="696.0" />
+      <point x="812.25" y="696.0" />
+      <point x="137.75" y="244.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.obaa_pp.org.OrganizationFactory" target="edu.ksu.cis.macr.obaa_pp.objects.ObjectFactory">
+      <point x="0.0" y="-144.0" />
+      <point x="1190.5" y="158.0" />
+      <point x="1297.5684523809525" y="158.0" />
+      <point x="0.0" y="64.0" />
+    </edge>
+    <edge source="edu.ksu.cis.macr.aasis.events.OrganizationEvents" target="edu.ksu.cis.macr.aasis.events.IOrganizationEvents">
+      <point x="0.0" y="-34.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.38316326530612244" x="1054.5" y="970.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
